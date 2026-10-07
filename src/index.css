@@ -1,0 +1,29 @@
+@import "tailwindcss";
+
+@layer base {
+  body {
+    font-family: 'Plus Jakarta Sans', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+    background-color: #f5f7f6;
+    color: #1a2e22;
+    -webkit-font-smoothing: antialiased;
+  }
+}
+
+/* Custom BIDV color variables */
+:root {
+  --bidv-green: #008049;
+  --bidv-yellow: #FFCC00;
+  --bidv-dark: #004D2C;
+  --bidv-bg: #F5F7F6;
+  --bidv-red: #E03E36;
+  --bidv-blue: #0A66C2;
+}
+
+@keyframes pulse-subtle {
+  0%, 100% { transform: scale(1); }
+  50% { transform: scale(1.03); }
+}
+
+.animate-pulse-subtle {
+  animation: pulse-subtle 2s infinite ease-in-out;
+}

@@ -1,0 +1,24 @@
+[
+  {
+    "pin": "386718",
+    "quizId": "bidv-culture-service",
+    "quizTitle": "Văn Hóa Doanh Nghiệp & Chuẩn Mực Dịch Vụ BIDV",
+    "hostId": "host_teacher",
+    "status": "lobby",
+    "currentQuestionIndex": 0,
+    "questionStartedAt": 0,
+    "timeRemaining": 0,
+    "players": {
+      "player_9p8z7tz": {
+        "id": "player_9p8z7tz",
+        "nickname": "Hoàng Yến (CN Hà Nội)",
+        "avatar": "🦊",
+        "score": 0,
+        "streak": 0,
+        "joinedAt": 1791354116172
+      }
+    },
+    "answers": [],
+    "createdAt": 1791354093474
+  }
+]

@@ -1,0 +1,6 @@
+{
+  "name": "BIDV EduPlay - Hệ Thống LMS Tương Tác Thời Gian Thực",
+  "description": "Phòng tương tác thời gian thực kiểu Kahoot dành cho LMS BIDV: Native Quiz Builder, nhúng mini-game Google AI Studio, mã PIN/QR, bảng xếp hạng trực tiếp và âm thanh sống động.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
